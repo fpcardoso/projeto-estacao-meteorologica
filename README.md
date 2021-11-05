@@ -7,7 +7,7 @@
   - [Modelagem - Diagramas](./doc/README.md)
 
 - **Sistema Estação:**
-  - [Código Fonte - Tutoriais](https://github.com/PJI29006-classroom/2020-01-estacao-metereologica-estacao-alexandre-andre-e-luiza/tree/master/estacao)
+  - [Código Fonte - Tutoriais](https://github.com/fpcardoso/projeto-estacao-meteorologica/tree/main/estacao)
 
 - **Sistema Servidor:**
-  - [Código Fonte - Tutoriais](https://github.com/PJI29006-classroom/2020-01-estacao-metereologica-estacao-alexandre-andre-e-luiza/tree/master/servidor)
+  - [Código Fonte - Tutoriais](https://github.com/fpcardoso/projeto-estacao-meteorologica/tree/main/servidor)
