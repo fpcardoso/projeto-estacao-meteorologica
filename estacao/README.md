@@ -19,7 +19,7 @@ Este diretório contém o código-fonte do sistema estação meteorológica e al
   - [Alterar Limiares de Sensor](#alterar-limiares-de-sensor)
 - [Exemplos de Clients para Fila de Mensagens (RabbitMQ)](#exemplos-de-clients-rabbitmq)
   - [Client para Notificações(Consumer)](#client-para-notificações) 
-  - [Client para Requesições (RPC)](#client-para-requisições) 
+  - [Client para Requisições (RPC)](#client-para-requisições) 
 ---
 ## Implantação
 ### Requisitos
