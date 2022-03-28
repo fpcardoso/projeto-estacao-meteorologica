@@ -10,4 +10,4 @@
   - [Código Fonte - Tutoriais](https://github.com/fpcardoso/projeto-estacao-meteorologica/tree/main/estacao)
 
 - **Sistema Servidor:**
-  - [Código Fonte - Tutoriais](https://github.com/fpcardoso/projeto-estacao-meteorologica/tree/main/servidor)
+  - Código Fonte - Removido
